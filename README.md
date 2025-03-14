@@ -1,4 +1,9 @@
 # werkveldexploratie
+hello there, I am Lars
+Hello Lars
+
+Bugfix
+Potatoes
 
 I have, alas, allowed myself to fall,
 To show the weakness of a heart untried,
@@ -10,11 +15,6 @@ I tangled in the petty, fleeting tide
 Of strife that marks the journey of the mild.
 Now wiser, I stand humbled, filled with rue,
 And seek to mend the harm my folly knew.
-
-hello there, I am Lars
-Hello Lars
-
-Bugfix
 
 Oh, life! Thou fickle and tempestuous sprite,
 What art thou but a breath upon the wind,
