@@ -3,6 +3,7 @@ hello there, I am Lars
 Hello Lars
 
 Bugfix
+The cheese does seem quite scrumptious.
 Potatoes
 and fries
 
