@@ -1,4 +1,4 @@
 # werkveldexploratie
 
-hello there
-da van mij is beter
+ hello there, I am Lars
+Alec zijn commit was beter
