@@ -1,5 +1,16 @@
 # werkveldexploratie
 
+I have, alas, allowed myself to fall,
+To show the weakness of a heart untried,
+And in the childish squabbles, heedless call,
+Of one who in his youth doth yet abide.
+I gave in to the folly of my pride,
+And like a child, with temper rash and wild,
+I tangled in the petty, fleeting tide
+Of strife that marks the journey of the mild.
+Now wiser, I stand humbled, filled with rue,
+And seek to mend the harm my folly knew.
+
 hello there, I am Lars
 Hello Lars
 
